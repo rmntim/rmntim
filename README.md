@@ -11,19 +11,19 @@ class Roman:
     def __init__(self):
         self.languages = [
             Python(typed=True),
-            HTML(),
-            CSS(),
+            Golang(),
             JavaScript(typescript=True),
             Java(), # ew 🤢
             Cpp(),
-            Bash(),
         ]
         self.technologies = [
             Python.Flask(),
             Python.SQLAlchemy(),
+            Golang.Echo(),
             JavaSript.React(),
-            JavaScript.Svelte(),
+            Javascript.Redux(),
             Docker(),
+            PostgreSQL(),
             Git(),
         ]
         self.interests = "Computer Science!"
