@@ -4,9 +4,9 @@
 
 **🔍 Looking for internship rn**
 
-- ⚙️ I use: `.go`, `.ts`, `.html`, `.css`, `.py`
+- ⚙️ I use: `.go`, `.py`, `.cpp`
 - 🌎 I speak: Russian (native), English (C1)
 - ✉️ I check:
-    - rmntim@yandex.ru
-    - vk.com/rmntim
-    - t.me/rmntim
+    - [Mail](mailto:rmntim@yandex.ru)
+    - [VK](https://vk.com/rmntim)
+    - [Telegram](https://t.me/rmntim)
