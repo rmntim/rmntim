@@ -4,7 +4,7 @@
 
 **🔍 Looking for internship rn**
 
-- ⚙️ I use: `.go`, `.py`, `.cpp`
+- ⚙️ I use: `.go`, `.py`
 - 🌎 I speak: Russian (native), English (C1)
 - ✉️ I check:
     - [Mail](mailto:rmntim@yandex.ru)
