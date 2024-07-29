@@ -1,11 +1,11 @@
-### Hello there 👋
+## Hello there 👋
 
-#### A Back-End Developer by day ☀️ and a [ITMO](https://itmo.ru) student by night 🌙
+I'm a backend engineer, also studying low-level technologies in [ITMO University](https://itmo.ru).
 
-**🔍 Looking for internship rn**
+> 🔍 I'm currently employed [@Alfa-Bank Russia](https://alfabank.ru)
 
-- ⚙️ I use: `.go`, `.py`, `.c`, `.cpp`
-- 🌎 I speak: Russian (native), English (C1)
+- ⚙️ I use: `.go`, `.ts`
+- 🌎 I speak: Russian (native), English (C2)
 - ✉️ I check:
     - [Mail](mailto:rmntim@yandex.ru)
     - [VK](https://vk.com/rmntim)
